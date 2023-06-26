@@ -1,0 +1,6 @@
+#Departments are added
+engg
+arch
+mathhs
+commerce
+
