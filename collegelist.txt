@@ -1,0 +1,5 @@
+#now here names of colleges are added
+MIT
+Stanford
+Harvard
+Yale
